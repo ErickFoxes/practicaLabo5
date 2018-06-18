@@ -15,7 +15,7 @@ import modelo.Filtro;
  * @author UCA
  */
 public class Inventario {
-    public static void main(String[] args) {
+  /*  public static void main(String[] args) {
         FiltroDao fd = new FiltroDao();
         
         ArrayList<Filtro> todos = fd.readAll();
@@ -73,5 +73,5 @@ public class Inventario {
         int R6 = M.nextInt();
         fd.delete(R6);
         
-    }
+    }*/
 }
